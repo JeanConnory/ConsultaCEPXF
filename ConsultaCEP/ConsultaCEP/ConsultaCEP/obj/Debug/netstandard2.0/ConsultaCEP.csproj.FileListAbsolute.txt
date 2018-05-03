@@ -1,0 +1,11 @@
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\netstandard2.0\ConsultaCEP.deps.json
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\netstandard2.0\ConsultaCEP.dll
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\netstandard2.0\ConsultaCEP.pdb
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.csprojResolveAssemblyReference.cache
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.csproj.CoreCompileInputs.cache
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.App.xaml.g.cs
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.MainPage.xaml.g.cs
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.AssemblyInfoInputs.cache
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.AssemblyInfo.cs
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.dll
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\netstandard2.0\ConsultaCEP.pdb

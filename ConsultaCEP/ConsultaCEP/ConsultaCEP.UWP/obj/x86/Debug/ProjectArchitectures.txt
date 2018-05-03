@@ -1,0 +1,1 @@
+D:\Projetos\Estudos\ConsultaCEP\ConsultaCEP\ConsultaCEP.UWP\ConsultaCEP.UWP.csproj;x86
