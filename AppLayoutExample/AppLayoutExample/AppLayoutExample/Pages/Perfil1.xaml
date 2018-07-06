@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppLayoutExample.Pages.Perfil1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Spacing="0">
+                <RelativeLayout VerticalOptions="Start" HeightRequest="300" >
+                    <Image Source="Fundo.png" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=1}" />
+                    <Image x:Name="Vegeta" Source="Vegeta.png" WidthRequest="120" RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width, Factor=.5, Constant=-60}" 
+                                                                              RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height, Factor=.2}" />
+                    <Label Text="Dunha Mcgregor" RelativeLayout.XConstraint="{ConstraintExpression Type=RelativeToView, Property=X, Factor=1, ElementName=Vegeta}"
+                                             RelativeLayout.YConstraint="{ConstraintExpression Type=RelativeToView, Property=Y, Factor=1, Constant=180, ElementName=Vegeta}" />
+                </RelativeLayout>
+                <Grid HeightRequest="120" BackgroundColor="#0D1F2D">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <StackLayout Grid.Column="0" Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                        <Label Text="30" TextColor="White" Font="32"/>
+                        <Label Text="Anos" TextColor="White" Font="12" HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+                    <StackLayout Grid.Column="1" Grid.Row="0" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                        <Label Text="22/12/1987" TextColor="White" Font="32"/>
+                        <Label Text="nasceu" TextColor="White" Font="12" HorizontalTextAlignment="Center"/>
+                    </StackLayout>
+                </Grid>
+                <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Padding="30">
+                    <Label Text="Dunha nasceu em Independência no Ceará e parece com o Vegeta SSJ4." />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

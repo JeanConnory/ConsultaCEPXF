@@ -156,4 +156,13 @@
       <Name>AppLayoutExample</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\XamarinLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Fundo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Vegeta.png" />
+  </ItemGroup>
 </Project>

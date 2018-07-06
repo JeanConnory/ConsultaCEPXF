@@ -1,0 +1,1 @@
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample.UWP\AppLayoutExample.UWP.csproj;x86

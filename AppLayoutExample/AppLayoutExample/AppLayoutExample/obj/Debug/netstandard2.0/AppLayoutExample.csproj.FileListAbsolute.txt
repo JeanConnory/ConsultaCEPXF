@@ -1,0 +1,15 @@
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\bin\Debug\netstandard2.0\AppLayoutExample.deps.json
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\bin\Debug\netstandard2.0\AppLayoutExample.dll
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\bin\Debug\netstandard2.0\AppLayoutExample.pdb
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\AppLayoutExample.csprojAssemblyReference.cache
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\Master\Menu.xaml.g.cs
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\Pages\Perfil1.xaml.g.cs
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\Pages\Xamarin.xaml.g.cs
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\AppLayoutExample.csproj.CoreCompileInputs.cache
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\AppLayoutExample.AssemblyInfoInputs.cache
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\AppLayoutExample.AssemblyInfo.cs
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\AppLayoutExample.dll
+C:\Projetos\Estudos\XamarinForms\AppLayoutExample\AppLayoutExample\AppLayoutExample\obj\Debug\netstandard2.0\AppLayoutExample.pdb
