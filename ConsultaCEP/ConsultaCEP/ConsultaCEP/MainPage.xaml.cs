@@ -43,7 +43,7 @@ namespace ConsultaCEP
 
             if (cep.Length != 8)
             {
-                DisplayAlert("ERRO", "O CEP deve conter 8 caaracteres.", "OK");
+                DisplayAlert("ERRO", "O CEP deve conter 8 caracteres.", "OK");
                 valido = false;
             }
             int novoCEP = 0;

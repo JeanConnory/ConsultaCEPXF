@@ -6,7 +6,7 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <application android:label="ConsultaCEP.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="ConsultaCEP" android:theme="@style/MainTheme" android:name="md507718dc5ebeb0a9e801fe4904cdb90df.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="ConsultaCEP" android:theme="@style/MainTheme" android:name="md5e5802c14f2e7f9354b61232364acf507.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

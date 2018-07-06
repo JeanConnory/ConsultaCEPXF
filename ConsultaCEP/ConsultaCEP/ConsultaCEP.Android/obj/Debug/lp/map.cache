@@ -1,6 +1,7 @@
 ConsultaCEP
-System.Runtime
 FormsViewGroup
+Newtonsoft.Json
+System.Runtime
 Xamarin.Android.Support.Animated.Vector.Drawable
 Xamarin.Android.Support.Annotations
 Xamarin.Android.Support.Compat
@@ -24,4 +25,3 @@ Xamarin.Forms.Xaml
 netstandard
 System.ComponentModel
 System.Reflection.Extensions
-Newtonsoft.Json

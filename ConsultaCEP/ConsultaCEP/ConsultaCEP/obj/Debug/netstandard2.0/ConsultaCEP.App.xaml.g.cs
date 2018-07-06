@@ -11,7 +11,7 @@
 namespace ConsultaCEP {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Projetos\\Estudos\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Projetos\\Estudos\\XamarinForms\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

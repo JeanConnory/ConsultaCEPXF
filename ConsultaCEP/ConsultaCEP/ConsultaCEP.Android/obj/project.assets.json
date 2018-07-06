@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v7.1": {
+    "MonoAndroid,Version=v8.1": {
       "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "compile": {
@@ -730,7 +730,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v7.1": [
+    "MonoAndroid,Version=v8.1": [
       "ConsultaCEP >= 1.0.0",
       "Xamarin.Android.Support.Design >= 25.4.0.2",
       "Xamarin.Android.Support.v4 >= 25.4.0.2",
@@ -741,46 +741,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\micha\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {}
+    "C:\\Users\\micha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Estudos\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.Android\\ConsultaCEP.Android.csproj",
+      "projectUniqueName": "C:\\Projetos\\Estudos\\XamarinForms\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.Android\\ConsultaCEP.Android.csproj",
       "projectName": "ConsultaCEP.Android",
-      "projectPath": "D:\\Projetos\\Estudos\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.Android\\ConsultaCEP.Android.csproj",
+      "projectPath": "C:\\Projetos\\Estudos\\XamarinForms\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.Android\\ConsultaCEP.Android.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Estudos\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.Android\\obj\\",
+      "outputPath": "C:\\Projetos\\Estudos\\XamarinForms\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\"
-      ],
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid71"
+        "monoandroid81"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid71": {
+        "monoandroid81": {
           "projectReferences": {
-            "D:\\Projetos\\Estudos\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.csproj": {
-              "projectPath": "D:\\Projetos\\Estudos\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.csproj"
+            "C:\\Projetos\\Estudos\\XamarinForms\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.csproj": {
+              "projectPath": "C:\\Projetos\\Estudos\\XamarinForms\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP\\ConsultaCEP.csproj"
             }
           }
         }
       }
     },
     "frameworks": {
-      "monoandroid71": {
+      "monoandroid81": {
         "dependencies": {
           "Xamarin.Android.Support.Design": {
             "target": "Package",
@@ -818,7 +813,7 @@
       "message": "Detected package downgrade: Xamarin.Forms from 2.5.1.444934 to 2.5.0.280555. Reference the package directly from the project to select a different version. \r\n ConsultaCEP.Android -> ConsultaCEP -> Xamarin.Forms (>= 2.5.1.444934) \r\n ConsultaCEP.Android -> Xamarin.Forms (>= 2.5.0.280555)",
       "libraryId": "Xamarin.Forms",
       "targetGraphs": [
-        "MonoAndroid,Version=v7.1"
+        "MonoAndroid,Version=v8.1"
       ]
     }
   ]
