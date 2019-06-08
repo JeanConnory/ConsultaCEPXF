@@ -1,2 +1,2 @@
 # XamarinForms
-Aplicação de consulta de CEPs feita com Xamarin Forms
+Aplicação de consulta de endereços a partir do CEP.
