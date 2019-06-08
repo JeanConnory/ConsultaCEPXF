@@ -1,2 +1,2 @@
 # XamarinForms
-Repositório para armazenar projetos de estudos feitos com Xamarin Forms
+Aplicação de consulta de CEPs feita com Xamarin Forms
